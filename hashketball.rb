@@ -6,7 +6,7 @@ new_hash = {
     },
   :away => {
     :team_name => "", :colors => [], :players => []
-    }
   }
+ }
 }
 end
