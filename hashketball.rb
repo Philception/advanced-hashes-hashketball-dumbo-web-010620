@@ -5,7 +5,7 @@ new_hash = {
     :team_name => "", :colors => [], :players => [{:player_name => ""}, {:number => ""}, {:shoe => ""}, {:points => ""}, {:rebounds => ""}, {:assists => "" }]
     },
   :away => {
-    :team_name => "", :colors => [], :players => [{}]
+    :team_name => "", :colors => [], :players => []
     }
   }
 }
